@@ -15,7 +15,7 @@ public class SimpleObservable {
                 System.out::println;
             }
 
-            public void onError(Throwable throwable) {
+            public void onError(Throwable throwable) {:wq
 
             }
 
